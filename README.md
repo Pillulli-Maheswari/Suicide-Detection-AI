@@ -60,9 +60,4 @@ This project is licensed under the MIT License – feel free to use, modify, and
 Maheswari Pillulli  
 AI & Software Engineering Enthusiast
 
-📬 Contact
-
-For questions, suggestions, or collaboration opportunities:  
-📧 maheshpillulli@email.com  
-🔗 GitHub: https://github.com/your-username
 
